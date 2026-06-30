@@ -71,3 +71,45 @@ http://localhost/Hostel-Management-System
 ## Author
 
 Jai Mittal
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+---
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Student Management
+
+![Students](screenshots/students.png)
+
+---
+
+### Room Management
+
+![Rooms](screenshots/rooms.png)
+
+---
+
+### Fee Management
+
+![Fees](screenshots/fees.png)
+
+---
+
+### Complaint Management
+
+![Complaints](screenshots/complaints.png)
+
+---
+
+### Reports
+
+![Reports](screenshots/reports.png)
