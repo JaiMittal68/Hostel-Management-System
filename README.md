@@ -4,16 +4,17 @@ A full-stack web application developed using PHP and MySQL to automate hostel ad
 
 ## Features
 
-- Student Management
-- Room Allocation
-- Fee Management
-- Complaint Management
-- Visitor Management
-- Gate Pass Management
-- Notice Management
-- Reports Dashboard
-- Secure Login Authentication
-- Role-Based Access
+| Feature | Status |
+|----------|--------|
+| Student Management | ✅ |
+| Room Allocation | ✅ |
+| Fee Management | ✅ |
+| Complaints | ✅ |
+| Visitors | ✅ |
+| Gate Pass | ✅ |
+| Notices | ✅ |
+| Reports | ✅ |
+| Authentication | ✅ |
 
 ## Technologies
 
