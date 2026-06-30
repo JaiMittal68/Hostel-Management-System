@@ -24,18 +24,39 @@ A full-stack web application developed using PHP and MySQL to automate hostel ad
 - CSS
 - JavaScript
 
-## Project Structure 
+## 📂 Project Structure
+
+```text
 Hostel-Management-System
 │
-├── css
-├── js
-├── includes
-├── php
-├── database
-├── uploads
-├── login.php
+├── css/
+├── database/
+│   └── hostel_management.sql
+├── includes/
+│   ├── config.php
+│   ├── header.php
+│   └── footer.php
+├── js/
+│   └── main.js
+├── php/
+│   ├── students.php
+│   ├── rooms.php
+│   ├── fees.php
+│   ├── complaints.php
+│   ├── visitors.php
+│   ├── notices.php
+│   ├── reports.php
+│   ├── users.php
+│   └── profile.php
+├── uploads/
 ├── dashboard.php
-└── README.md
+├── index.php
+├── login.php
+├── logout.php
+├── unauthorized.php
+├── README.md
+└── .gitignore
+```
 
 ## Installation
 
