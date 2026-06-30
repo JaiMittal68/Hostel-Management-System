@@ -1,4 +1,4 @@
-# Hostel Management System
+# 🏠 Hostel Management System
 
 A full-stack web application developed using PHP and MySQL to automate hostel administration.
 
