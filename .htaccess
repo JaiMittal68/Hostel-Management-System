@@ -1,0 +1,16 @@
+Options -Indexes
+DirectoryIndex index.php login.php
+
+# Protect includes folder
+<FilesMatch "\.(php)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
+# Prevent direct access to includes
+RewriteEngine On
+RewriteRule ^includes/ - [F,L]
+
+# PHP error display (turn off in production)
+php_flag display_errors Off
+php_flag log_errors On
